@@ -1,2 +1,2 @@
-# hunt-6
-kajkasjkadhaghjadsgadsjhdajsdhahjadjah
+# Proyecto-Osos-Emma
+Librerias Preparadas
